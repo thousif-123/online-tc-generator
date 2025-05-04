@@ -21,7 +21,7 @@
 
 ### 1️⃣ Clone the Repository
 
-<b><u><code>git clone https://github.com/yourusername/online-tc-generator.git</code></a></u></b><br><br>
+<b><u><code>git clone https://github.com/thousif-123/online-tc-generator.git</code></a></u></b><br><br>
 2️⃣ Start XAMPP Server
 
    **1. Open XAMPP Control Panel**:
@@ -33,10 +33,10 @@
    <ul>
    <li>Open phpMyAdmin</li>
    <li>Import the provided .sql file (if available) or manually create the required tables.</li></ul>
-**3.Run the Project**:
-<ul>
-<li>Place the project folder in the htdocs/ directory of XAMPP.</li>
-<li>Access it via browser: http://localhost/online-tc-generator/</li></ul>
+  **3.Run the Project**:
+    <ul>
+    <li>Place the project folder in the htdocs/ directory of XAMPP.</li>
+    <li>Access it via browser: http://localhost/online-tc-generator/</li></ul>
 
 
 **For feedback, suggestions, or questions:**
