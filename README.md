@@ -36,8 +36,8 @@
    
    **3.Run the Project**:
    <ul>
-   <li>Place the project folder in the htdocs/ directory of XAMPP.-IN <code>LINUX OS</code></li>
-   <li>Access it via browser: http://localhost/online-tc-generator/</li></ul>
+   <li>Place the project folder in the htdocs/ directory of XAMPP.</li>
+   <li>Access it via browser: http://localhost/online-tc-generator/     -IN <code>LINUX OS</code></li></ul>
 
 
 **For feedback, suggestions, or questions:**
