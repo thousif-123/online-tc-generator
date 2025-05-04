@@ -14,6 +14,7 @@
 | Frontend | Backend | Database | Server |
 |---------|---------|----------|--------|
 | HTML5   | PHP     | MySQL    | XAMPP  |
+| CSS3    |         |          | Apache |
 
 ## <u>⚙️ Setup Instructions</u>:
 
