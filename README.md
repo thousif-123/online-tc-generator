@@ -1,5 +1,5 @@
 # 🧾 Online TC Generator
-**An Online Transfer Certificate (TC) Generator Web Application that automates the generation and management of student TCs for educational institutions. This system includes student registration, admin login, TC generation, and record management — all connected to a MySQL database using XAMPP.
+**An Online Transfer Certificate (TC) Generator Web Application that automates the generation and management of student TCs for educational institutions. This system includes student registration, admin login, TC generation — all connected to a MySQL database using XAMPP.
 **<hr>
 
 ## 📌 Features:
