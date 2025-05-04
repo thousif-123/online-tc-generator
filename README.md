@@ -1,4 +1,4 @@
-# 🧾 Online TC Generator
+# 🧾 Online TC Generator<br>
 **An Online Transfer Certificate (TC) Generator Web Application that automates the generation and management of student TCs for educational institutions. This system includes student registration, admin login, TC generation — all connected to a MySQL database using XAMPP.
 **<hr>
 
@@ -27,16 +27,17 @@
    **1. Open XAMPP Control Panel**:
    <ul>
          <li>Open XAMPP Control Panel</li>
-          <li>Start both Apache and MySQL</li><br></ul>
+          <li>Start both Apache and MySQL</li></ul><br>
           
    **2.Import the Database**:
    <ul>
    <li>Open phpMyAdmin</li>
-   <li>Import the provided .sql file (if available) or manually create the required tables.</li></ul>
-  **3.Run the Project**:
-    <ul>
-    <li>Place the project folder in the htdocs/ directory of XAMPP.</li>
-    <li>Access it via browser: http://localhost/online-tc-generator/</li></ul>
+   <li>Import the provided .sql file (if available) or manually create the required tables.</li></ul><br>
+   
+   **3.Run the Project**:
+   <ul>
+   <li>Place the project folder in the htdocs/ directory of XAMPP.</li>
+   <li>Access it via browser: http://localhost/online-tc-generator/</li></ul>
 
 
 **For feedback, suggestions, or questions:**
