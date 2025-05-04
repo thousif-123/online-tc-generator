@@ -4,7 +4,8 @@
 
 ## 📌 Features:
 - 🔐 Admin Login Authentication.
-- 🧾 Auto-generated Transfer Certificate.
+- 📝 Registration Module.
+- 🏠 Interactive Home Page.
 - 🧾 Auto-generated Transfer Certificate.
 - 🌐 Built using HTML, CSS, PHP, and MySQL.<br><br>
 
