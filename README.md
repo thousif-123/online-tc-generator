@@ -45,6 +45,7 @@
 📧 [skthousif474@gmail.com](mailto:skthousif474@gmail.com)
 🔗 GitHub: github.com/thousif-123<br><br>
 
+<b>This Project is a <code>Prototype Version.</code></b><br>
 <b>Note</b> : This code is generated using <code>"vibe-coding"</code>.Need to learn 'what is vibe coding?' check out the link: [vibe coding](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=what+is+vibe+coding)
 
 
